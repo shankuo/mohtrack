@@ -36,8 +36,7 @@
 <p class="w3-center">
 <button class="w3-button w3-section w3-blue w3-ripple"> Sign In </button>
 </p>
-<h6>* MOH - Ministry of Health
+<h6>* MOH - Ministry of Health</h6>
 </form>
-
 </body>
 </html>
