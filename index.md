@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html>
-<title>W3.CSS</title>
+<title>Contact</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <body>
 
-<form action="/action_page.php" class="w3-container w3-card-4 w3-light-grey w3-text-blue w3-margin">
+<form action="" class="w3-container w3-card-4 w3-light-grey w3-text-blue w3-margin">
 <div class="w3-center"><br>
       <img src="img_avatar4.png" alt="Logo" style="width:30%" class="w3-circle w3-margin-top">
 </div>
